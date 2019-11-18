@@ -49,5 +49,14 @@
      <li><h4>My biggest accomplishments have been singing a solo at school as well as getting straight A's</h4>
     <li><h4>I've never liked watching movies</h4>
       <h4>I'm not able to sit still for THAT long</h4>
-  
+      <hr>
+      <h3>City Staple Video: </h3>
+     <embed width="420" height="315"
+src="https://www.youtube.com/embed/WFjr-oUCwfI">
+      <h3>Random audio: </h3>
+      <audio id="player" controls>
+      <source src="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3" /> 
+      <source src="http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg" /> 
+      Your browser does not support the audio element.
+</audio>
     </html>
